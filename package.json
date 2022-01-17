@@ -1,0 +1,13 @@
+{
+  "name": "24/7Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.5.1",
+    "ytdl-core": "^4.10.0"
+  }
+}
